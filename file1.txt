@@ -1,1 +1,2 @@
 Sample file 1
+Updated file1.txt in branch2 remote
