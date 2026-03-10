@@ -1,4 +1,4 @@
-This is an example text file.
+This is an example text file. - update in remote
 It contains multiple lines of text.
 You can write any content here!
 Changing example.txt on remote -- updated
