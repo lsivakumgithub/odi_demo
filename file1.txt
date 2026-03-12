@@ -1,2 +1,0 @@
-Sample file 1
--- update Updated file1.txt in branch2 remote
