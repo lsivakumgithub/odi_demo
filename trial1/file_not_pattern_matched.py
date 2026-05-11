@@ -1,0 +1,1 @@
+This file does not match the sparse checkout pattern
